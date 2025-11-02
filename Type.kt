@@ -1,4 +1,4 @@
-package com.example.samrat
+package com.example.richard
 
 import android.accessibilityservice.GestureDescription
 
@@ -16,5 +16,6 @@ fun main(){
     println(a.uppercase())
     println(x)
     print(a.plus(",How are you"));
+
 
 }
