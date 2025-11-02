@@ -1,4 +1,4 @@
-package com.example.samrat
+package com.example.richard
 
 fun main(){
 fun show(a: Int, b: Int): Unit {
@@ -28,4 +28,5 @@ fun findMinimumNumber (a: Int, b: Int): Int {
     println("Sum of the two entered number is $sum")
     var minimum = findMinimumNumber (a, b)
     println("And the smallest between $a and $b is $minimum")
+
     }
