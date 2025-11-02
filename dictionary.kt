@@ -1,4 +1,4 @@
-package com.example.samrat
+package com.example.richard
 
 fun main() {
     val dictionary = mapOf(
@@ -15,3 +15,4 @@ fun main() {
         println("Sorry, word not found in dictionary.")
     }
 }
+
