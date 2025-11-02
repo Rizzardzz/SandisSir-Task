@@ -1,4 +1,4 @@
-package com.example.samrat
+package com.example.richard
 
 fun main(){
     var x: Double = 132.32
@@ -8,4 +8,5 @@ fun main(){
     println(x)
     println(y)
     println(z)
+
 }
