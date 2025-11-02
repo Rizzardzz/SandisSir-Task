@@ -1,1 +1,1 @@
-print('samrat')
+print('richard')
