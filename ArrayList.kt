@@ -1,4 +1,4 @@
-package com.example.samrat
+package com.example.richard
 
 fun main() {
     var age1 = ArrayList<Int>()
@@ -6,7 +6,7 @@ fun main() {
     age1.add( 1, 20)
     age1.add(5)
     var age2 = arrayListOf<Int>(1, 20, 5)
-    var name = arrayListOf<String>("samrat", "ram", "shyam")
+    var name = arrayListOf<String>("richard", "ram", "shyam")
     name.add("hari")
     name.add(4,"Sita")
     name.remove( "shyam")
@@ -16,4 +16,5 @@ fun main() {
     println(mixArrayList[0]);
     println(mixArrayList[1]);
     println(mixArrayList[2]);
+
 }
