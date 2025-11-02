@@ -1,4 +1,4 @@
-package com.example.samrat
+package com.example.richard
 
 
 fun main(args: Array<String>) {
@@ -9,10 +9,11 @@ fun main(args: Array<String>) {
     println("The third element of age is " + age[2])
     println("********")
 
-    var name = arrayOf("ram", "shyam", "Hari")
+    var name = arrayOf("ram", "sandis", "Hari")
     name[1] = "sandis"
     println("The first element of name is " + name[0])
     println("The second element of name is " + name[1])
     println("The third element of name is " + name[2])
     println(name.size)
+
 }
